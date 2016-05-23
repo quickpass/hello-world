@@ -1,4 +1,8 @@
 # hello-world
 
+Basic command
 
-What the hell
+git status 
+git add 
+git commmit -m "commit messages"
+git push orgin master
